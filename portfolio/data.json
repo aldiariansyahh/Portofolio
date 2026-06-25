@@ -1,0 +1,98 @@
+{
+  "profil": {
+    "nama": "Muhamad Rifaldi Aryansyah",
+    "jurusan": "D3 Teknik Elektronika",
+    "institusi": "Politeknik Negeri Semarang (Polines)",
+    "angkatan": "2023",
+    "email": "aldiariansyah2809@gmail.com",
+    "telepon": "085713253026",
+    "github": "https://github.com/aldiaryansyah",
+    "linkedin": "https://linkedin.com/in/muhamad-rifaldi-aryansyah",
+    "bio": "Mahasiswa D3 Teknik Elektronika Polines dengan minat di bidang otomasi, embedded system, IoT, dan teknologi industri. Berpengalaman dalam kegiatan magang mekanik termasuk pengelasan dan perawatan peralatan.",
+    "foto": "images/foto.jpg"
+  },
+  "pengalaman": [
+    {
+      "posisi": "Mechanical Intern",
+      "perusahaan": "PT Java Kayana Sagara",
+      "tahun": "2025",
+      "poin": [
+        "Membantu kegiatan perawatan dan perbaikan mekanik.",
+        "Melakukan pekerjaan pengelasan untuk operasional industri.",
+        "Membantu inspeksi dan pemeliharaan peralatan mekanik.",
+        "Berkolaborasi dengan teknisi lapangan dan operator."
+      ]
+    }
+  ],
+  "keahlian": {
+    "hardware": [
+      { "nama": "Arduino Programming", "level": 88 },
+      { "nama": "ESP8266 / IoT Development", "level": 82 },
+      { "nama": "Sensor Integration", "level": 85 },
+      { "nama": "Basic PLC Understanding", "level": 65 },
+      { "nama": "Electronics Troubleshooting", "level": 80 }
+    ],
+    "software": [
+      { "nama": "Proteus Simulation", "level": 78 },
+      { "nama": "HTML Basic Interface Design", "level": 68 },
+      { "nama": "Microsoft Office", "level": 75 },
+      { "nama": "Pemrograman C / C++", "level": 80 },
+      { "nama": "Arduino IDE", "level": 90 }
+    ],
+    "lainnya": [
+      { "nama": "Welding (Pengelasan)", "level": 80 },
+      { "nama": "Teamwork & Problem Solving", "level": 90 },
+      { "nama": "Bahasa Indonesia", "level": 100 },
+      { "nama": "English", "level": 70 }
+    ]
+  },
+  "proyek": [
+    {
+      "id": 1,
+      "judul": "Smart Door Lock System",
+      "deskripsi": "Prototipe kunci pintu pintar menggunakan teknologi mikrokontroler. Sistem mampu mengontrol akses pintu secara otomatis dengan antarmuka yang mudah digunakan.",
+      "teknologi": ["Arduino", "Microcontroller", "Relay", "Sensor"],
+      "kategori": "Embedded",
+      "tahun": "2024",
+      "gambar": "images/project1.jpg",
+      "link_github": "",
+      "status": "Selesai"
+    },
+    {
+      "id": 2,
+      "judul": "Food Dehydration System",
+      "deskripsi": "Sistem dehidrasi makanan otomatis dengan monitoring suhu real-time. Dirancang untuk mengontrol proses pengeringan secara presisi menggunakan sensor suhu.",
+      "teknologi": ["Arduino", "Temperature Sensor", "Relay", "LCD"],
+      "kategori": "Otomasi",
+      "tahun": "2024",
+      "gambar": "images/project2.jpg",
+      "link_github": "",
+      "status": "Selesai"
+    },
+    {
+      "id": 3,
+      "judul": "Water Level Monitoring System",
+      "deskripsi": "Sistem monitoring ketinggian air secara real-time menggunakan sensor dan konsep IoT. Data ketinggian air ditampilkan dan dapat dipantau dari jarak jauh.",
+      "teknologi": ["ESP8266", "Ultrasonic Sensor", "IoT", "Arduino"],
+      "kategori": "IoT",
+      "tahun": "2024",
+      "gambar": "images/project3.jpg",
+      "link_github": "",
+      "status": "Selesai"
+    }
+  ],
+  "pendidikan": [
+    {
+      "institusi": "Politeknik Negeri Semarang (Polines)",
+      "jurusan": "D3 Teknik Elektronika",
+      "tahun": "2023 – Sekarang",
+      "deskripsi": "Fokus pada embedded system, IoT, otomasi industri, dan instrumentasi elektronika."
+    },
+    {
+      "institusi": "SMK N 2 Slawi",
+      "jurusan": "Agricultural Machinery Tools (AMP)",
+      "tahun": "2020 – 2023",
+      "deskripsi": ""
+    }
+  ]
+}
